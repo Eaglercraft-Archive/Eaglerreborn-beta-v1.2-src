@@ -1,0 +1,4 @@
+{
+	"name": "EaglerVM",
+	"build": { "dockerfile": "Dockerfile" }
+}
